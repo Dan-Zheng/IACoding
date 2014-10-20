@@ -1,0 +1,42 @@
+/*Vaughn Oct 19 2014*/
+
+.thumbnail{
+	border-radius: 100%;
+	position: relative;
+	display: inline-block;
+	height: 110px;
+	width: 110px;
+	background-position: center center;
+	top: 55px;
+	right: 30px;
+	//background-image:url("../logo.jpg");
+
+}
+
+.contact{
+	float: right;
+	display: inline-block;
+}
+
+.card{
+	position: relative;
+	float: left;
+	clear: left;
+	border-bottom: 1px dotted #DDDDDD;
+	height: 150px;
+	left: 20%
+}
+
+.section{
+	position: relative;
+	width: 100%;
+	display: inline-block;
+	border-bottom: 1px dotted black;
+}
+
+.sechead{
+	display: inline-block;
+	align: left;
+	position: absolute;
+	font-size: 150%;
+}
